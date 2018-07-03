@@ -2,5 +2,8 @@
 
 for x in range (1,100):
 	if x%5==0 and x%==0:
-		"print FIZZBUZZ"
+		print "FIZZBUZZ"
+
+	elif x%5==0:
+		print "Fizz" #Si encuentra los múltiplos de 5, imprime Fizz
 
