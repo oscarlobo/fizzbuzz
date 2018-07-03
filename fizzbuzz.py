@@ -9,4 +9,7 @@ for x in range (1,100):
 
 	elif x%3==0:
 		print "Buzz" #Si encuentra los múltiplos de 3, imprime Buzz
+	
+	else:
+		print x #Cuando no cumple lo anterior imprime el resto
 
