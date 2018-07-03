@@ -7,3 +7,6 @@ for x in range (1,100):
 	elif x%5==0:
 		print "Fizz" #Si encuentra los múltiplos de 5, imprime Fizz
 
+	elif x%3==0:
+		print "Buzz" #Si encuentra los múltiplos de 3, imprime Buzz
+
