@@ -2,4 +2,5 @@
 
 for x in range (1,100):
 	if x%5==0 and x%==0:
+		"print FIZZBUZZ"
 
